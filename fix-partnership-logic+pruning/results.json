@@ -1,0 +1,806 @@
+{
+  "results": {
+    "A": 11,
+    "B": 2,
+    "C": 5,
+    "D": 6
+  },
+  "overall_winner": [
+    "A",
+    "C"
+  ],
+  "tricks": [
+    {
+      "winner": "D",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "GOLD",
+            "rank": "FOUR"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "GOLD",
+            "rank": "SIX"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "GOLD",
+            "rank": "FIVE"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "GOLD",
+            "rank": "KING"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "D",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "GOLD",
+            "rank": "SEVEN"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "TEN"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "GOLD",
+            "rank": "THREE"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "GOLD",
+            "rank": "EIGHT"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "D",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "COINS",
+            "rank": "FIVE"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "COINS",
+            "rank": "SIX"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "COINS",
+            "rank": "TEN"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "COINS",
+            "rank": "THREE"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "B",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "MINISTER"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "KING"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "FIVE"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "SEVEN"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "A",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "GOLD",
+            "rank": "NINE"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "CUPS",
+            "rank": "FOUR"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "BILLS",
+            "rank": "SIX"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "GOLD",
+            "rank": "ACE"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "D",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "HARPS",
+            "rank": "FOUR"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "HARPS",
+            "rank": "SIX"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "HARPS",
+            "rank": "KING"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "HARPS",
+            "rank": "ACE"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "A",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "GOLD",
+            "rank": "TWO"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "SEVEN"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "NINE"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "CUPS",
+            "rank": "EIGHT"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "A",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "COINS",
+            "rank": "ACE"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "COINS",
+            "rank": "MINISTER"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "COINS",
+            "rank": "TWO"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "CUPS",
+            "rank": "SEVEN"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "A",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "COINS",
+            "rank": "SEVEN"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "TWO"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "COINS",
+            "rank": "EIGHT"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "ACE"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "B",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "HARPS",
+            "rank": "TEN"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "HARPS",
+            "rank": "THREE"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "HARPS",
+            "rank": "MINISTER"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "HARPS",
+            "rank": "FIVE"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "C",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "HARPS",
+            "rank": "EIGHT"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "HARPS",
+            "rank": "NINE"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "HARPS",
+            "rank": "SEVEN"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "BILLS",
+            "rank": "MINISTER"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "A",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "COINS",
+            "rank": "NINE"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "BILLS",
+            "rank": "FIVE"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "COINS",
+            "rank": "KING"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "ACE"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "A",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "HARPS",
+            "rank": "TWO"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "CUPS",
+            "rank": "FIVE"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "BILLS",
+            "rank": "EIGHT"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "TWO"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "A",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "GOLD",
+            "rank": "MINISTER"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "FIVE"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "NINE"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "KING"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "A",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "CUPS",
+            "rank": "TWO"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "CUPS",
+            "rank": "NINE"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "CUPS",
+            "rank": "TEN"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "CUPS",
+            "rank": "MINISTER"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "C",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "TWO"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "SIX"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "TEN"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "EIGHT"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "D",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "FOUR"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "KING"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "EIGHT"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "NINE"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "D",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "THREE"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "EIGHT"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "FOUR"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "MINISTER"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "A",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "GOLD",
+            "rank": "TEN"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "BILLS",
+            "rank": "ACE"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "THREE"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "ACE"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "C",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "CUPS",
+            "rank": "KING"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "BILLS",
+            "rank": "KING"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "CUPS",
+            "rank": "THREE"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "BILLS",
+            "rank": "FOUR"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "A",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "TEN"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "SEVEN"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "FIVE"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "SERVANTS",
+            "rank": "FOUR"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "C",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "BILLS",
+            "rank": "SEVEN"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "BILLS",
+            "rank": "THREE"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "BILLS",
+            "rank": "TWO"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "BILLS",
+            "rank": "TEN"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "C",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "CUPS",
+            "rank": "SIX"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "BILLS",
+            "rank": "NINE"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "CUPS",
+            "rank": "ACE"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "SIX"
+          }
+        }
+      ]
+    },
+    {
+      "winner": "A",
+      "cards": [
+        {
+          "player": "A",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "SIX"
+          }
+        },
+        {
+          "player": "B",
+          "card": {
+            "suit": "CROWNS",
+            "rank": "MINISTER"
+          }
+        },
+        {
+          "player": "C",
+          "card": {
+            "suit": "COINS",
+            "rank": "FOUR"
+          }
+        },
+        {
+          "player": "D",
+          "card": {
+            "suit": "SWORDS",
+            "rank": "THREE"
+          }
+        }
+      ]
+    }
+  ]
+}
